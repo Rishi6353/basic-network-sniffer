@@ -1,0 +1,10 @@
+# CodeAlpha Cyber Security Internship: Basic Network Sniffer
+# Dependency specification
+#
+# Recommended Python version: >= 3.10
+# To install in virtual environment:
+#   source .venv/bin/activate
+#   pip install -r requirements.txt
+
+scapy==2.8.0
+
